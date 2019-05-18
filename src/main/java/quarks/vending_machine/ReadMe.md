@@ -1,4 +1,4 @@
-##Vending Machine
+## Vending Machine
 #### Problem Statement
 
 You need to design a Vending Machine which
@@ -9,10 +9,10 @@ You need to design a Vending Machine which
  * Allow reset operation for vending machine supplier.
 
 ***
-####Assumptions
+#### Assumptions
 
 
 
 
 ***
-####Approach
+#### Approach
